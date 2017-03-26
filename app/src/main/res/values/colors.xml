@@ -4,10 +4,11 @@
     <color name="colorPrimaryDark">#007fef</color>
     <color name="colorAccent">#535353</color>
 
-    <color name="lighi_blue">#00aaff</color>
+    <color name="light_blue">#00aaff</color>
     <color name="center">#0088ff</color>
     <color name="overlay_blue">#009eed</color>
 
     <color name="top_color">#007fef</color>
+    <color name="mid_color">#ffffff</color>
     <color name="bottom_color">#0088ff</color>
 </resources>

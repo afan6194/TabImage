@@ -17,10 +17,10 @@ public class MainActivity extends AppCompatActivity implements TabLayout.OnTabSe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //set gradient colour
+        //set gradient colour on toolbar
         getSupportActionBar().setBackgroundDrawable(getResources().getDrawable(R.drawable.gradasi));
 
-            //adding tollbar to the actifity
+        //setTitle Toolbar
         //getSupportActionBar().setDisplayShowTitleEnabled(false);//menghapus title bar
         getSupportActionBar().setTitle("Halaman Utama");
 

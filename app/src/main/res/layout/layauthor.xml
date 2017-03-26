@@ -43,7 +43,8 @@
                 android:background="@drawable/ig"
                 android:layout_alignTop="@+id/btfb"
                 android:layout_alignParentRight="true"
-                android:layout_marginRight="90dp"/>
+                android:layout_marginRight="90dp"
+                android:autoLink="all"/>
             <Button
                 android:id="@+id/btfb"
                 android:layout_width="30dp"
@@ -51,7 +52,8 @@
                 android:layout_marginTop="30dp"
                 android:layout_marginRight="50dp"
                 android:layout_alignParentRight="true"
-                android:background="@drawable/fb" />
+                android:background="@drawable/fb"
+                android:autoLink="all"/>
 
             <Button
                 android:id="@+id/btgoogle"
@@ -60,7 +62,8 @@
                 android:layout_alignTop="@+id/btfb"
                 android:layout_alignParentRight="true"
                 android:layout_marginRight="10dp"
-                android:background="@drawable/google" />
+                android:background="@drawable/google"
+                android:autoLink="all"/>
 
             <TextView
                 android:id="@+id/user_profile_name"
